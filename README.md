@@ -1,2 +1,2 @@
 # House_Price_Predictions
-## Kaggle practice dataset for predicting house prices
+This repo explores the practice dataset available on Kaggle for predicting house prices. 
